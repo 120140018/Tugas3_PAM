@@ -38,15 +38,15 @@ Aplikasi ini dapat melakukan pencarian jadwal keberangkataan pesawat
 
 Default:
 
-<p align="center"><img width="400" align="center" src="https://github.com/PerdanaRagaWinata/Tugas-PAM-Mg3/tree/main/ScreenshotApp/daftar.jpeg" alt="daftar"></p>
+![](ScreenshotApp/daftar.png) <br>
 
 Flight Available:
 
-<p align="center"><img width="400" src="https://github.com/PerdanaRagaWinata/Tugas-PAM-Mg3/tree/main/ScreenshotApp/home.jpeg" alt="home"></p>
+![](ScreenshotApp/home.png) <br>
 
 Not Flight Available:
 
-<p align="center"><img width="400" src="https://github.com/PerdanaRagaWinata/Tugas-PAM-Mg3/tree/main/ScreenshotApp/hasil.jpeg" alt="hasil"></p>
+![](ScreenshotApp/hasil.png) <br>
 
 ## Sumber
 
